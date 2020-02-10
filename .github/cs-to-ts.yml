@@ -1,0 +1,5 @@
+cs: 
+  - models/cs/*
+
+ts: 
+  - models/ts/*
